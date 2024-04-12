@@ -32,10 +32,13 @@ Includes both a version with integer data and a generic version
 JUnit tests included
 
 [Directed and undirected graph implementation](https://github.com/UCN-programming-2-JFK/Graphs)  
-This project includes both a matrix and list implementation of the internal data structure and has a Graph interface to show how it is easy to swap implementation objects if they adhere to the same contract.  
+This project includes two graph implementations with either a matrix or a list implementation of the internal data structure.  
+Both classes implement the same Graph interface to show how it is easy to swap implementation classes if they adhere to the same contract.  
 The project is implemented with a Vertex class that contains a string.
 The project includes a gui which generates a maze (breadth first and depth first), converts it to a graph with all intersections being vertices and then finds the path through the maze.  
-![image](https://github.com/UCN-programming-2-JFK/.github/assets/3811290/97cbab7a-0444-4ba1-9a86-cb63f11256cb)
+  
+![MazeSolver](https://github.com/UCN-programming-2-JFK/.github/assets/3811290/d5e63c28-7a9a-4129-8f24-1d1410780763)
+
 
 
 
