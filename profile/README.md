@@ -18,7 +18,7 @@ The project includes some best practices like defining interfaces for your data 
 recursively finds the size of a folder including all subfolders and files
   
 [Tree structures and composite pattern](https://github.com/UCN-programming-2-JFK/TreeStructures)
-two solutions 
+two solutions: 
 - Binary tree
   - shows the two classes necessary for creating a Binary Tree data structure and implements code to print tree preOrder, inOrder and postOrder
   - code to get the size of the tree
@@ -26,5 +26,9 @@ two solutions
 - Composite pattern
   - sample implementation of the [Composite]([url](https://en.wikipedia.org/wiki/Composite_pattern)) software design pattern 
 
+[Binary search trees](https://github.com/UCN-programming-2-JFK/BinarySearchTrees)
+sample implementation of a binary search tree with find(data) and insert(data) methods  
+Includes both a version with integer data and a generic version  
+JUnit tests included
 
 
