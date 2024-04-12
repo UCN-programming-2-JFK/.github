@@ -31,4 +31,9 @@ sample implementation of a binary search tree with find(data) and insert(data) m
 Includes both a version with integer data and a generic version  
 JUnit tests included
 
+[Directed and undirected graph implementation](https://github.com/UCN-programming-2-JFK/Graphs)  
+This project includes both a matrix and list implementation of the internal data structure and has a Graph interface to show how it is easy to swap implementation objects if they adhere to the same contract.  
+The project is implemented with a Vertex class that contains a string.
+
+
 
