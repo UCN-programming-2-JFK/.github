@@ -7,14 +7,24 @@ Author: [Jakob Farian Krarup](mailto:jfk@ucn.dk) 😊
 
 ## Part 1 - Databases
 
-### Sample project for working with databases using the DAO pattern (Data Access Objects)
-[Sample DAO architecture project](https://github.com/UCN-programming-2-JFK/SampleDaoArchitectureProject)
-
-
+[Sample DAO architecture project](https://github.com/UCN-programming-2-JFK/SampleDaoArchitectureProject)  
+Sample project for working with databases using the DAO pattern (Data Access Objects)
+The project includes some best practices like defining interfaces for your data access classes to lower coupling and simplify testing.  
+  
+  
 ##  Part 2 - Data structures and algorithms
 
-### Recursion exercise
 [Recursive folder size calculator](https://github.com/UCN-programming-2-JFK/RecursiveFolderSizeCalculator)
-- this project recursively finds the size of a folder including all subfolders and files
+recursively finds the size of a folder including all subfolders and files
+  
+[Tree structures and composite pattern](https://github.com/UCN-programming-2-JFK/TreeStructures)
+two solutions 
+- Binary tree
+  - shows the two classes necessary for creating a Binary Tree data structure and implements code to print tree preOrder, inOrder and postOrder
+  - code to get the size of the tree
+  - gives example of a binary tree iterator implementation
+- Composite pattern
+  - sample implementation of the [Composite]([url](https://en.wikipedia.org/wiki/Composite_pattern)) software design pattern 
+
 
 
