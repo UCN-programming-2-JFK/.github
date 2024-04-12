@@ -14,10 +14,10 @@ The project includes some best practices like defining interfaces for your data 
   
 ##  Part 2 - Data structures and algorithms
 
-[Recursive folder size calculator](https://github.com/UCN-programming-2-JFK/RecursiveFolderSizeCalculator)
+[Recursive folder size calculator](https://github.com/UCN-programming-2-JFK/RecursiveFolderSizeCalculator)  
 recursively finds the size of a folder including all subfolders and files
   
-[Tree structures and composite pattern](https://github.com/UCN-programming-2-JFK/TreeStructures)
+[Tree structures and composite pattern](https://github.com/UCN-programming-2-JFK/TreeStructures)  
 two solutions: 
 - Binary tree
   - shows the two classes necessary for creating a Binary Tree data structure and implements code to print tree preOrder, inOrder and postOrder
@@ -26,7 +26,7 @@ two solutions:
 - Composite pattern
   - sample implementation of the [Composite]([url](https://en.wikipedia.org/wiki/Composite_pattern)) software design pattern 
 
-[Binary search trees](https://github.com/UCN-programming-2-JFK/BinarySearchTrees)
+[Binary search trees](https://github.com/UCN-programming-2-JFK/BinarySearchTrees)  
 sample implementation of a binary search tree with find(data) and insert(data) methods  
 Includes both a version with integer data and a generic version  
 JUnit tests included
@@ -49,7 +49,14 @@ Excercise skeletons (gui framework for visualization) and sample solutions for t
 ![image](https://user-images.githubusercontent.com/3811290/200328340-8edf18b6-33a4-4ae3-9752-432f42fbe483.png)
 ![image](https://user-images.githubusercontent.com/3811290/200328362-470976bf-8628-499a-ad1f-2b28a2f70a15.png)
 
+[Observer pattern](https://github.com/UCN-programming-2-JFK/ObserverPatternExercise)  
+Exercise to practice implementing the observer design pattern. The exercise models a LAN party where different subscribers want to be notified when a match between two teams has ended.  
 
+[Lambda Accounts](https://github.com/UCN-programming-2-JFK/LambdaAccounts)  
+Code samples of how to use lambdas to filter data from a collection
+
+[Concurrency](https://github.com/UCN-programming-2-JFK/Concurrency)  
+Sample code for multithreaded programming in Java
 
 
 
