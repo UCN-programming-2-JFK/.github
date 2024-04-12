@@ -34,10 +34,20 @@ JUnit tests included
 [Directed and undirected graph implementation](https://github.com/UCN-programming-2-JFK/Graphs)  
 This project includes two graph implementations with either a matrix or a list implementation of the internal data structure.  
 Both classes implement the same Graph interface to show how it is easy to swap implementation classes if they adhere to the same contract.  
-The project is implemented with a Vertex class that contains a string.
+The project is implemented with a Vertex class that contains a string.  
+JUnit tests included.
 The project includes a gui which generates a maze (breadth first and depth first), converts it to a graph with all intersections being vertices and then finds the path through the maze.  
   
 ![MazeSolver](https://github.com/UCN-programming-2-JFK/.github/assets/3811290/d5e63c28-7a9a-4129-8f24-1d1410780763)
+
+[Backtracking algorithm](https://github.com/UCN-programming-2-JFK/jfk.exercises/tree/master)  
+Excercise skeletons (gui framework for visualization) and sample solutions for three classic problems that can all be solved using the backtracking algorithm:
+- Eight Queen
+- Maze
+- Sudoku  
+![image](https://user-images.githubusercontent.com/3811290/200328432-e5c3a156-623d-4ce6-a118-1c940f11c820.png)
+![image](https://user-images.githubusercontent.com/3811290/200328340-8edf18b6-33a4-4ae3-9752-432f42fbe483.png)
+![image](https://user-images.githubusercontent.com/3811290/200328362-470976bf-8628-499a-ad1f-2b28a2f70a15.png)
 
 
 
