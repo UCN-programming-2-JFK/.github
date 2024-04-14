@@ -3,7 +3,10 @@ Author: [Jakob Farian Krarup](mailto:jfk@ucn.dk) 😊
 
 > This repository contains exercises, stubs and solutions for understanding 
 > coding against databases, data structures, software design patterns and algorithms.
-> It also contains code samples relating to [Java game programming](https://github.com/UCN-programming-2-JFK/JavaGameProgrammingCodesamples/tree/master), in case you would like to start a side project to elevate your coding skills.
+> 
+> It also contains code samples relating to [Java game programming](https://github.com/UCN-programming-2-JFK/JavaGameProgrammingCodesamples/tree/master), in case you would like to start a side project to elevate your coding skills.  
+> ![image](https://github.com/UCN-programming-2-JFK/.github/assets/3811290/fb781187-d611-40a8-b1ad-23af752acf39)
+
 
 ## Part 1 - Databases
 
