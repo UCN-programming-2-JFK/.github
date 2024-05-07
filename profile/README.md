@@ -61,5 +61,7 @@ Code samples of how to use lambdas to filter data from a collection
 [Concurrency](https://github.com/UCN-programming-2-JFK/Concurrency)  
 Sample code for multithreaded programming in Java
 
+[Map Reduce example](https://github.com/UCN-programming-2-JFK/MapReduceExample)  
+Code exercise with sample solution using .parallelStream() and higher order funcions for reporting  progress and for time-taking.
 
 
